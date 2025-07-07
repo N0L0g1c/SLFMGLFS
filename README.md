@@ -61,7 +61,8 @@ For questions or feedback, you can reach out to Cryptonologic on X.
 1.0.0 - 2025-07-08
 Initial release
 
-Features:Encrypt large files (>100MB) using GPG before committing to Git LFS
+Features:
+Encrypt large files (>100MB) using GPG before committing to Git LFS
 Decrypt encrypted files after checking out
 
 ## Security Note
