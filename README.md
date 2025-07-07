@@ -1,4 +1,3 @@
-# SLFMGLFS
 # Secure Large File Management for Git LFS
 
 A bash script to automate encryption and decryption of large files for use with Git Large File Storage (LFS), ensuring security for sensitive data in version control.
@@ -58,10 +57,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For questions or feedback, you can reach out to Cryptonologic on X.
 
 ## Release History
-1.0.0 - 2025-07-08
-Initial release
+   * 1.0.0 - 2025-07-08
+   * Initial release
 
-Features:
+* Features:
 Encrypt large files (>100MB) using GPG before committing to Git LFS
 Decrypt encrypted files after checking out
 
