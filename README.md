@@ -47,8 +47,15 @@ After pulling or cloning the repository, run the decryption script:
 ./decrypt_large_files.sh
 
 This will prompt you for the password and decrypt all .gpg files back to their original form, removing the encrypted versions.
+
 ## Contributing
-Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. For more details, see the CONTRIBUTING.md file.LicenseThis project is licensed under the MIT License - see the LICENSE file for details.ContactFor questions or feedback, you can reach out to Cryptonologic on Twitter.
+Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. For more details, see the CONTRIBUTING.md file.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+For questions or feedback, you can reach out to Cryptonologic on X.
 
 ## Release History
 1.0.0 - 2025-07-08
